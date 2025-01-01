@@ -1,4 +1,4 @@
-#  ENTNT Technical Assignment : Calendar Application for Communication Tracking
+#   Calendar Application for Communication Tracking
 
  <img width="1468" alt="image" src="https://github.com/user-attachments/assets/029119a8-76b6-4c09-a66f-3213702a6161" />
  <img width="1469" alt="image" src="https://github.com/user-attachments/assets/5f7471a9-3811-4212-b9a0-587649f4eaac" />
@@ -7,10 +7,6 @@
 <img width="1464" alt="image" src="https://github.com/user-attachments/assets/4f67297e-9687-4760-9139-712617bb736a" />
 <img width="1462" alt="image" src="https://github.com/user-attachments/assets/45ccff9d-23d9-4026-923a-11389b95eb92" />
 <img width="1465" alt="image" src="https://github.com/user-attachments/assets/664be421-274e-4cba-8072-eba48206a4c2" />
-
-
-
-## contact : telegram -> https://t.me/Coding_Gurl    or  grp : https://t.me/Coders_Community_By_Kb
 
 
 Objective
